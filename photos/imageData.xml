@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SIMPLEVIEWER_DATA maxImageDimension="400" textColor="0xdefdff" frameColor="0xc1dbde" bgColor="0xdefdff" frameWidth="10" stagePadding="20" thumbnailColumns="4" thumbnailRows="5" navPosition="right" navDirection="LTR" title="Velva Kittens from July of 2005" imagePath="" thumbPath="">
+<IMAGE>
+	<NAME>kitten_01.jpg</NAME>
+	<CAPTION>1</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>kitten_02.jpg</NAME>
+	<CAPTION>2</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>kitten_03.jpg</NAME>
+	<CAPTION>3</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>kitten_04.jpg</NAME>
+	<CAPTION>4</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>kitten_05.jpg</NAME>
+	<CAPTION>5</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>kitten_06.jpg</NAME>
+	<CAPTION>6</CAPTION>
+</IMAGE><IMAGE>
+	<NAME>kitten_07.jpg</NAME>
+	<CAPTION>7</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>kitten_08.jpg</NAME>
+	<CAPTION>8</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>kitten_09.jpg</NAME>
+	<CAPTION>9</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>kitten_10.jpg</NAME>
+	<CAPTION>10</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>kitten_11.jpg</NAME>
+	<CAPTION>11</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>kitten_12.jpg</NAME>
+	<CAPTION>12</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>kitten_13.jpg</NAME>
+	<CAPTION>13</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>kitten_14.jpg</NAME>
+	<CAPTION>14</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>kitten_15.jpg</NAME>
+	<CAPTION>15</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>kitten_16.jpg</NAME>
+	<CAPTION>16</CAPTION>
+</IMAGE><IMAGE>
+	<NAME>kitten_17.jpg</NAME>
+	<CAPTION>17</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>kitten_18.jpg</NAME>
+	<CAPTION>18</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>kitten_19.jpg</NAME>
+	<CAPTION>19</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>kitten_20.jpg</NAME>
+	<CAPTION>20</CAPTION>
+</IMAGE>
+
+</SIMPLEVIEWER_DATA>

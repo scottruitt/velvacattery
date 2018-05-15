@@ -1,0 +1,5 @@
+AddHandler cgi-script .cgi
+AddHandler cgi-script .pl
+Options +ExecCGI
+
+AddHandler php-stable .php
