@@ -22,19 +22,14 @@
 				
 				<h1>Reserve your Velva Kitten </h1>
 				
-				<form method="post" action="formmail.pl">
-				
-				<input type="hidden" name="recipient" value="ddoernberg@aol.com" />
-				<input type="hidden" name="redirect" value="http://www.velvacattery.com/thanks.php" />
-				<input type="hidden" name="print_config" value="email" />
-				<input type="hidden" name="print_blank_fields" value="1" />
+				<form class="contact" action="mailer.php" method="post">
 
 				<p>To place your name on our waiting list, please enter your personal information and click send. Once the litter is born, we begin contacting the list. Those still desiring a kitten are asked to send a $50 refundable deposit. We begin placing our kittens in their new homes when they reach twelve weeks of age. </p>
 				
 				<table>
 					<tr>
 						<td>Name: </td>
-						<td><input name="realname" type="text" size="30" /> </td>
+						<td><input name="name" type="text" size="30" /> </td>
 					</tr>
 					<tr>
 						<td>Email: </td>
@@ -49,15 +44,15 @@
 						<td><input name="address" type="text" size="30" /> </td>
 					</tr>
 					<tr>
-					<td>City: </td>
+						<td>City: </td>
 						<td><input name="city" type="text" size="30" /> </td>
 					</tr>
 					<tr>
-					<td>State: </td>
+						<td>State: </td>
 						<td><input name="state" type="text" size="10" /> </td>
 					</tr>
 					<tr>
-					<td>Zip: </td>
+						<td>Zip: </td>
 						<td><input name="zip" type="text" size="10" /> </td>
 					</tr>
 					<tr>
