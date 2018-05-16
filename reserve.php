@@ -57,7 +57,7 @@
 					</tr>
 					<tr>
 						<td>Comments: </td>
-						<td><textarea name="additional_information" rows ="8" cols="50"></textarea> </td>
+						<td><textarea name="comments" rows ="8" cols="50"></textarea> </td>
 					</tr>
 					<tr>
 						<td></td>
