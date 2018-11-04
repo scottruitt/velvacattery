@@ -21,7 +21,7 @@
 			<div id="content">
 				
 				<h1>Reserve your Velva Kitten </h1>
-				<p>To place your name on our waiting list, please email ddoernberg at aol dot com with your name and phone number. Once the litter is born, we begin contacting the list. Those still desiring a kitten are asked to send a $50 refundable deposit. We begin placing our kittens in their new homes when they reach twelve weeks of age. </p>
+				<p>To place your name on our waiting list, please email <a href="mailto:ddoernberg@aol.com">ddoernberg@aol.com</a> with your name and phone number. Once the litter is born, we begin contacting the list. Those still desiring a kitten are asked to send a $50 refundable deposit. We begin placing our kittens in their new homes when they reach twelve weeks of age. </p>
 				
 				<!--form class="contact" action="mailer.php" method="post">
 				
