@@ -22,7 +22,7 @@
 				
 				<h1>Kittens </h1>
 				<p>Velva Russian Blue litters are available on a regular basis. All of our kittens are &ldquo;home raised&rdquo; and nearly all are sold as pets, because we like them to receive the love and attention a family environment offers. Velva pet kittens are all sold with the understanding that they will be indoor cats, that they will be neutered or spayed, and will not be used for breeding. </p>
-				<p>Velva pet kittens sell for $1300.00 USD. This includes shots, health certificate, pet carrier, pedigree, and CFA registration slip. </p>
+				<p>Velva pet kittens sell for $1500.00 USD. This includes shots, health certificate, pet carrier, pedigree, and CFA registration slip. </p>
 				<p>You may join the waiting list to <a href="reserve.php" title="Reserve your Velva kitten">reserve your Velva kitten</a>. Once the litter is born, we begin contacting the list. Those still desiring a kitten are asked to send a $50 refundable deposit. We begin placing our kittens in their new homes when they reach twelve weeks of age. </p>
 				<p class="pics">
 					<img src="images/pic-kittens-4.jpg" alt="pictures of kittens playing" />
