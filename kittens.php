@@ -32,7 +32,7 @@
 				</p>
 				<p>Older cats are periodically available, most at reduced prices to insure they receive loving pet homes. Please email if you are interested. </p>
 				<p>Many of our buyers live too far away to personally pick up their new kitten. In those cases, air shipment can be arranged. The added cost is between $150 and $200, and must be prepaid before shipping can be accomplished. </p>
-				<p>Velva Cattery is located in Akron, Ohio</a>. Diana can be reached via email at <a href="mailto:ddoernberg@aol.com" title="Send an email to Diana">ddoernberg@aol.com</a>. </p>
+				<p>Velva Cattery is located in Akron, Ohio</a>. Diana can be reached via email at <a href="mailto:ddoernberg@gmail.com" title="Send an email to Diana">ddoernberg@gmail.com</a>. </p>
 			
 			</div>
 			
