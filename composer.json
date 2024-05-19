@@ -1,5 +1,8 @@
 {
   "require": {
     "sendgrid/sendgrid": "~6.2"
-  }
+  },
+  "require": {
+      "composer-plugin-api": "^1.0"
+  },
 }
